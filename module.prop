@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.5
-versionCode=6
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=bladeSk_magisk-volume-steps
+name=Increase Volume Steps
+version=v1.0
+versionCode=1
+author=blade.sk
+description=Increases media volume steps to 30 and call volume steps to 10
+support=https://github.com/bladeSk/magisk-volume-steps

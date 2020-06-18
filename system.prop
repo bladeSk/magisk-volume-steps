@@ -1,0 +1,3 @@
+ro.config.vc_call_vol_steps=10
+ro.config.media_vol_steps=30
+audio.safemedia.bypass=true
